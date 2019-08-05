@@ -1078,11 +1078,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Quotes:
-  - Ketamine\n=\nMijn Benzine
-  - Hij wandelt\nnaar de maan
-  - Ik stop pep\nin mijn\nuitlaatklep
-  - Hij snuift\nalles in een
-  - Ketamine\nsmeert mijn\nmachine
+  - My grandma\n=\nis better
 --- !u!1 &1463386510
 GameObject:
   m_ObjectHideFlags: 0
