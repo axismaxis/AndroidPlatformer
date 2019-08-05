@@ -1,2 +1,5 @@
-# AndroidPlatformer
-A simple platformer to learn Unity Android Development
+# Flappy bird clone
+A fully fledged flappy bird clone. 
+
+Why?
+That's a good question...
